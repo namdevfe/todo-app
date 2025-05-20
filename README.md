@@ -2,7 +2,7 @@
 
 Một ứng dụng quản lý công việc (Todo List) đơn giản được xây dựng bằng **React**, **Vite**, **TypeScript**, **Redux Toolkit**, và **Tailwind CSS**.
 
-## Cài dặt
+## Cài đặt
 
 - Clone dự án trên repo github bằng lệnh: git clone https://github.com/namdevfe/todo-app.git
 - Mở dự án bằng VSCode hoặc Code editor bất kỳ, chạy lệnh: yarn để tải các package cần cho dự có trong file package.json.
